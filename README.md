@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
   <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Spring_Boot.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40" height="40" alt="Spring Boot"/>
   </p>
 
   <!-- Databases -->
