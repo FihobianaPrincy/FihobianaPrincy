@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-stack & game developer  
+- 💻 Full-stack & Game developer  
 - 🎨 Interested in **UI/UX** and **3D modeling**  
 - 🌱 Currently learning **C# / Java / React Native**  
-- 🌐 Passionate about building impactful web & mobile apps  
+- 🌐 Passionate about building impactful web & mobile apps & game
 
 ---
 
@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
   </p>
 
-  <br/>
   <!-- Web -->
   <h4>Web</h4>
   <p align="left">
@@ -55,7 +54,6 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
   </p>
 
-  <br/>
   <!-- Design -->
   <h4>Design</h4>
   <p align="left">
@@ -63,11 +61,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
-  </p>
-
-  <h4>Game</h4>
-  <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Unity_Technologies_logo.svg" width="40" height="40" alt="Unity"/>
   </p>
 
 ---
