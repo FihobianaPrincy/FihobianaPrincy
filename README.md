@@ -44,7 +44,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Spring_Boot.svg" width="40" height="40" alt="Spring Boot"/>
   </p>
 
-  <br/>
   <!-- Databases -->
   <h4>Database</h4>
   <p align="left">
